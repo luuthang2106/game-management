@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS person (
+    name VARCHAR (50) NOT NULL
+);
